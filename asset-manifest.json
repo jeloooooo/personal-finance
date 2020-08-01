@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/personal-finance/static/css/main.1359096b.chunk.css",
+    "main.js": "/personal-finance/static/js/main.7431c5b8.chunk.js",
+    "runtime-main.js": "/personal-finance/static/js/runtime-main.e58ce013.js",
+    "static/css/2.ff1b870e.chunk.css": "/personal-finance/static/css/2.ff1b870e.chunk.css",
+    "static/js/2.31d451a5.chunk.js": "/personal-finance/static/js/2.31d451a5.chunk.js",
+    "index.html": "/personal-finance/index.html",
+    "precache-manifest.05c2f58da7b6e186eadbff5e0d2b910c.js": "/personal-finance/precache-manifest.05c2f58da7b6e186eadbff5e0d2b910c.js",
+    "service-worker.js": "/personal-finance/service-worker.js",
+    "static/js/2.31d451a5.chunk.js.LICENSE.txt": "/personal-finance/static/js/2.31d451a5.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/personal-finance/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e58ce013.js",
+    "static/css/2.ff1b870e.chunk.css",
+    "static/js/2.31d451a5.chunk.js",
+    "static/css/main.1359096b.chunk.css",
+    "static/js/main.7431c5b8.chunk.js"
+  ]
+}
