@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0b724a089bccb956d36d53f1689f0940",
+    "revision": "c2ebdf1f4ea6a3c708c5dce18a62ef4c",
     "url": "/personal-finance/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/personal-finance/static/css/2.ff1b870e.chunk.css"
   },
   {
-    "revision": "dcc0a71c37bc3578fb09",
+    "revision": "4352350fd2a8b8434956",
     "url": "/personal-finance/static/css/main.1359096b.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/personal-finance/static/js/2.31d451a5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dcc0a71c37bc3578fb09",
-    "url": "/personal-finance/static/js/main.7431c5b8.chunk.js"
+    "revision": "4352350fd2a8b8434956",
+    "url": "/personal-finance/static/js/main.dddba68d.chunk.js"
   },
   {
     "revision": "2e074f3beabddaacdfc6",
